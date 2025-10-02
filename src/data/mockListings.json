@@ -1,0 +1,449 @@
+[
+  {
+    "id": "1",
+    "title": "Mama Wanjiku's Leftover Ugali & Sukuma",
+    "source": "Restaurant",
+    "type": "Surplus",
+    "category": "Meals",
+    "quantity": "4 plates",
+    "value": 1200,
+    "description": "Fresh leftover Ugali and Sukuma wiki from today's lunch service. Still in excellent condition but must be consumed today.",
+    "county": "Nairobi",
+    "distance": 2.5,
+    "images": [
+      "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-15T20:00:00.000Z",
+    "postedAt": "2023-06-15T10:00:00.000Z",
+    "postedBy": {
+      "id": "user1",
+      "name": "Mama Wanjiku",
+      "organization": "Wanjiku's Kitchen"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["15 Jun 2023 14:00-16:00", "15 Jun 2023 17:00-18:00"],
+    "location": {
+      "lat": -1.286389,
+      "lng": 36.817223,
+      "address": "Kenyatta Avenue, Nairobi"
+    },
+    "matches": [
+      {
+        "id": "1",
+        "name": "Nairobi Food Bank",
+        "distance": 2.5,
+        "score": 80,
+        "rationale": "Same county match (Nairobi), High capacity (100%)"
+      },
+      {
+        "id": "5",
+        "name": "Nakuru Charity Centre",
+        "distance": 2.9,
+        "score": 40,
+        "rationale": "Nearby county (2.9km away), High capacity (80%)"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Mavoko Farm — Deformed Tomatoes",
+    "source": "Farmer",
+    "type": "Produce",
+    "category": "Imperfect Produce",
+    "quantity": "30kg",
+    "value": 900,
+    "description": "Perfectly edible tomatoes with cosmetic defects. Great for sauces and cooking.",
+    "county": "Machakos",
+    "distance": 5.3,
+    "images": [
+      "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-20T20:00:00.000Z",
+    "postedAt": "2023-06-14T15:30:00.000Z",
+    "postedBy": {
+      "id": "user2",
+      "name": "Peter Ochieng",
+      "organization": "Mavoko Farm"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 09:00-12:00", "17 Jun 2023 09:00-12:00"],
+    "location": {
+      "lat": -1.523611,
+      "lng": 37.263889,
+      "address": "Mavoko, Machakos County"
+    },
+    "matches": [
+      {
+        "id": "6",
+        "name": "Machakos Outreach",
+        "distance": 5.3,
+        "score": 65,
+        "rationale": "Same county match (Machakos), Limited capacity (40%)"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Riverside Diner — Near-Expiry Milk (10L)",
+    "source": "Restaurant",
+    "type": "Surplus",
+    "category": "Near-expiry",
+    "quantity": "10L",
+    "value": 600,
+    "description": "Fresh milk approaching expiry date. Perfect for immediate use in baking or cooking.",
+    "county": "Kisumu",
+    "distance": 1.8,
+    "images": [
+      "https://images.unsplash.com/photo-1563636619-e9143da7973b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-16T20:00:00.000Z",
+    "postedAt": "2023-06-15T09:00:00.000Z",
+    "postedBy": {
+      "id": "user3",
+      "name": "Amina",
+      "organization": "Riverside Diner"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["15 Jun 2023 15:00-17:00"],
+    "location": {
+      "lat": -0.102222,
+      "lng": 34.761944,
+      "address": "Oginga Odinga Street, Kisumu"
+    },
+    "matches": [
+      {
+        "id": "2",
+        "name": "Kisumu Care Centre",
+        "distance": 1.8,
+        "score": 65,
+        "rationale": "Same county match (Kisumu), Medium capacity (50%)"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Eldoret Greens — Excess Kale",
+    "source": "Farmer",
+    "type": "Produce",
+    "category": "Excess Harvest",
+    "quantity": "20kg",
+    "value": 1500,
+    "description": "Freshly harvested excess kale. Perfectly fresh and nutritious.",
+    "county": "Eldoret",
+    "distance": 4.1,
+    "images": [
+      "https://images.unsplash.com/photo-1524593166156-312f362cada0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-18T20:00:00.000Z",
+    "postedAt": "2023-06-15T08:00:00.000Z",
+    "postedBy": {
+      "id": "user4",
+      "name": "Fatuma Mwangi",
+      "organization": "Eldoret Greens"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 10:00-14:00", "17 Jun 2023 10:00-14:00"],
+    "location": {
+      "lat": 0.520556,
+      "lng": 35.269722,
+      "address": "Uganda Road, Eldoret"
+    },
+    "matches": [
+      {
+        "id": "4",
+        "name": "Eldoret Feeding Program",
+        "distance": 4.1,
+        "score": 75,
+        "rationale": "Same county match (Eldoret), Medium capacity (60%)"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Nyama Choma Restaurant — Food Scraps",
+    "source": "Restaurant",
+    "type": "Biodegradable",
+    "category": "Food Waste",
+    "quantity": "15kg",
+    "value": 0,
+    "description": "Food scraps and organic waste from restaurant operations. Suitable for composting.",
+    "county": "Nairobi",
+    "distance": 3.4,
+    "images": [
+      "https://images.unsplash.com/photo-1516711345667-ebafb3ebea12?auto=format&fit=crop&w=800&q=80"
+    ],
+    "postedAt": "2023-06-14T18:30:00.000Z",
+    "postedBy": {
+      "id": "user5",
+      "name": "Kamau",
+      "organization": "Nyama Choma Restaurant"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 08:00-10:00"],
+    "location": {
+      "lat": -1.296389,
+      "lng": 36.827223,
+      "address": "Moi Avenue, Nairobi"
+    },
+    "wasteDetails": {
+      "type": "Biodegradable",
+      "estimatedVolume": "15kg"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Nakumatt Heights — Plastic Packaging",
+    "source": "Restaurant",
+    "type": "Non-Biodegradable",
+    "category": "Packaging",
+    "quantity": "8kg",
+    "value": 0,
+    "description": "Clean plastic packaging waste from restaurant supplies. Suitable for recycling.",
+    "county": "Nakuru",
+    "distance": 2.9,
+    "images": [
+      "https://images.unsplash.com/photo-1605600659873-d808a13e4d9a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "postedAt": "2023-06-14T16:45:00.000Z",
+    "postedBy": {
+      "id": "user6",
+      "name": "Wanjiru",
+      "organization": "Nakumatt Heights Restaurant"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 14:00-16:00"],
+    "location": {
+      "lat": -0.303611,
+      "lng": 36.080278,
+      "address": "Kenyatta Avenue, Nakuru"
+    },
+    "wasteDetails": {
+      "type": "Non-Biodegradable",
+      "nonBiodegradableType": "Plastics",
+      "estimatedVolume": "8kg"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Karen Organic Farm — Compost Materials",
+    "source": "Farmer",
+    "type": "Biodegradable",
+    "category": "Plant Waste",
+    "quantity": "50kg",
+    "value": 0,
+    "description": "Plant trimmings and organic farm waste suitable for composting.",
+    "county": "Nairobi",
+    "distance": 5.8,
+    "images": [
+      "https://images.unsplash.com/photo-1580412581060-8db4e6f8e3b6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "postedAt": "2023-06-13T11:20:00.000Z",
+    "postedBy": {
+      "id": "user7",
+      "name": "Sarah Kimani",
+      "organization": "Karen Organic Farm"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 09:00-13:00", "17 Jun 2023 09:00-13:00"],
+    "location": {
+      "lat": -1.336389,
+      "lng": 36.707223,
+      "address": "Karen Road, Nairobi"
+    },
+    "wasteDetails": {
+      "type": "Biodegradable",
+      "estimatedVolume": "50kg"
+    }
+  },
+  {
+    "id": "8",
+    "title": "Mombasa Beach Resort — Glass Bottles",
+    "source": "Restaurant",
+    "type": "Non-Biodegradable",
+    "category": "Glass",
+    "quantity": "12kg",
+    "value": 0,
+    "description": "Used glass bottles from restaurant operations. Clean and ready for recycling.",
+    "county": "Mombasa",
+    "distance": 3.2,
+    "images": [
+      "https://images.unsplash.com/photo-1550411294-56f7d0c7fbe6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "postedAt": "2023-06-14T14:10:00.000Z",
+    "postedBy": {
+      "id": "user8",
+      "name": "Hassan Omar",
+      "organization": "Mombasa Beach Resort"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 10:00-12:00", "17 Jun 2023 10:00-12:00"],
+    "location": {
+      "lat": -4.043333,
+      "lng": 39.668333,
+      "address": "Nyali Beach Road, Mombasa"
+    },
+    "wasteDetails": {
+      "type": "Non-Biodegradable",
+      "nonBiodegradableType": "Non-Plastics",
+      "estimatedVolume": "12kg"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Naivasha Greenhouse — Bruised Peppers",
+    "source": "Farmer",
+    "type": "Produce",
+    "category": "Imperfect Produce",
+    "quantity": "15kg",
+    "value": 750,
+    "description": "Bell peppers with minor bruising. Perfect for cooking and sauces.",
+    "county": "Nakuru",
+    "distance": 6.2,
+    "images": [
+      "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-19T20:00:00.000Z",
+    "postedAt": "2023-06-15T07:45:00.000Z",
+    "postedBy": {
+      "id": "user9",
+      "name": "James Kariuki",
+      "organization": "Naivasha Greenhouse"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 09:00-11:00", "17 Jun 2023 09:00-11:00"],
+    "location": {
+      "lat": -0.713611,
+      "lng": 36.431944,
+      "address": "South Lake Road, Naivasha"
+    },
+    "matches": [
+      {
+        "id": "5",
+        "name": "Nakuru Charity Centre",
+        "distance": 2.9,
+        "score": 75,
+        "rationale": "Same county match (Nakuru), High capacity (80%)"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Java House — Day-Old Pastries",
+    "source": "Restaurant",
+    "type": "Surplus",
+    "category": "Baked Goods",
+    "quantity": "20 pieces",
+    "value": 1800,
+    "description": "Assorted day-old pastries and bread. Still fresh and delicious.",
+    "county": "Nairobi",
+    "distance": 1.9,
+    "images": [
+      "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-16T20:00:00.000Z",
+    "postedAt": "2023-06-15T07:30:00.000Z",
+    "postedBy": {
+      "id": "user10",
+      "name": "Elizabeth Njeri",
+      "organization": "Java House"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["15 Jun 2023 17:00-19:00"],
+    "location": {
+      "lat": -1.276389,
+      "lng": 36.807223,
+      "address": "Koinange Street, Nairobi"
+    },
+    "matches": [
+      {
+        "id": "1",
+        "name": "Nairobi Food Bank",
+        "distance": 2.5,
+        "score": 80,
+        "rationale": "Same county match (Nairobi), High capacity (100%)"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Kisumu Fisheries — Fish Trimmings",
+    "source": "Restaurant",
+    "type": "Biodegradable",
+    "category": "Fish Waste",
+    "quantity": "10kg",
+    "value": 0,
+    "description": "Fish trimmings and scraps from restaurant preparation. Suitable for composting.",
+    "county": "Kisumu",
+    "distance": 2.3,
+    "images": [
+      "https://images.unsplash.com/photo-1515087099703-94d77504929d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "postedAt": "2023-06-14T17:15:00.000Z",
+    "postedBy": {
+      "id": "user11",
+      "name": "Otieno Omondi",
+      "organization": "Kisumu Fisheries"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 08:00-10:00"],
+    "location": {
+      "lat": -0.092222,
+      "lng": 34.751944,
+      "address": "Kisumu Fish Market, Kisumu"
+    },
+    "wasteDetails": {
+      "type": "Biodegradable",
+      "estimatedVolume": "10kg"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Machakos Poultry — Excess Eggs",
+    "source": "Farmer",
+    "type": "Produce",
+    "category": "Excess Harvest",
+    "quantity": "15 trays",
+    "value": 2250,
+    "description": "Fresh farm eggs, excess from weekly production. Perfect condition.",
+    "county": "Machakos",
+    "distance": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1598965675045-45c7d5a7e26c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "expiryDate": "2023-06-30T20:00:00.000Z",
+    "postedAt": "2023-06-14T10:20:00.000Z",
+    "postedBy": {
+      "id": "user12",
+      "name": "David Mutua",
+      "organization": "Machakos Poultry Farm"
+    },
+    "status": "Available",
+    "acceptsPickup": true,
+    "pickupWindows": ["16 Jun 2023 09:00-12:00", "17 Jun 2023 09:00-12:00"],
+    "location": {
+      "lat": -1.513611,
+      "lng": 37.253889,
+      "address": "Machakos Town, Machakos County"
+    },
+    "matches": [
+      {
+        "id": "6",
+        "name": "Machakos Outreach",
+        "distance": 5.3,
+        "score": 65,
+        "rationale": "Same county match (Machakos), Limited capacity (40%)"
+      }
+    ]
+  }
+]
